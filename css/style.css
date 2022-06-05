@@ -1,0 +1,44 @@
+.div_margin{margin-top:20px;}
+.banner{background-image: url(../images/black.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+.slider{background-color: rgba(1,1,1,.7);
+     color: white;
+    padding: 70px;}
+.slider h1{font-size: 30px;
+       margin-bottom: 30px;}
+.slider p{margin-bottom: 30px;}
+.slider button{background-color: bisque;}
+.carousel-indicators {
+ bottom: 16px;
+}
+
+.carousel-indicators [data-bs-target] {
+ width: 15px;
+ height: 15px;
+ border-radius: 50%;
+ background-color:pink;
+}
+
+
+.card{margin: auto;}
+
+.progress{margin-top:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
